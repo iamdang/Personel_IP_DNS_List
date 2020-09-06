@@ -1,0 +1,10 @@
+#   Custom DNS Block List
+#
+#
+#
+#
+mangadex.org
+www.mangadex.org
+mangadex.com
+MangaDex.cc
+www.MangaDex.cc
