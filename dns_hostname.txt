@@ -1,0 +1,3 @@
+### Custom block DoT/DoH Servers 
+
+chrome.cloudflare-dns.com
