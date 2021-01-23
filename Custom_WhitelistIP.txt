@@ -1,0 +1,2 @@
+#### Allow good ip to bypass blocking.
+185.55.116.152 ## Allow public-dns.info
