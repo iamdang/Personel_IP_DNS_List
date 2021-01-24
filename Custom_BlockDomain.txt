@@ -1,8 +1,5 @@
 #   Custom DNS Block List
-#
-#
-#
-#
+#############################
 mangadex.org
 www.mangadex.org
 mangadex.com
@@ -30,3 +27,9 @@ www.bilgebuysag.cam
 ptoushoa.com
 installsophisticated-thecompletelyfile.best
 securityprotomob.eu
+
+
+### Custom block DoT/DoH Servers 
+chrome.cloudflare-dns.com
+4c888f.dns.nextdns.io
+firefox.dns.nextdns.io
