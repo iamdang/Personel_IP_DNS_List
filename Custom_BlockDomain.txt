@@ -15,7 +15,7 @@ usa.theodorus-flo.com
 theodorus-flo.com
 peachlandus.com
 www.peachlandus.com
-
+blastcahs.com
 
 ### malicious domain ###
 info-netkeeper.com
@@ -29,7 +29,7 @@ installsophisticated-thecompletelyfile.best
 securityprotomob.eu
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 onmarshtompor.com
-
+leplaxal.com
 
 ### Custom block DoT/DoH Servers 
 chrome.cloudflare-dns.com
