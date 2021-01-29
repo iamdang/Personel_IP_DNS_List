@@ -1,13 +1,110 @@
 setup.fe.apple-dns.net
+17.248.188.132
+17.248.188.175
+17.248.188.71
+17.248.188.78
+17.248.188.73
+17.248.188.83
+17.248.188.143
+17.248.188.135
+2620:149:a43:10c::8
+2620:149:a43:10c::12
+2620:149:a43:10a::7
+2620:149:a43:10a::11
+2620:149:a43:10b::c
+2620:149:a43:10a::9
+2620:149:a43:10b::5
+2620:149:a43:10b::6
+
 cvws.apple-dns.net
+17.248.188.134
+17.248.188.144
+17.248.188.132
+17.248.188.169
+17.248.188.145
+17.248.188.113
+17.248.188.79
+17.248.188.172
+;; WARNING: can't connect to 2620:149:a43:10b::10
+;; WARNING: can't connect to 2620:149:a43:10a::8
+;; WARNING: can't connect to 2620:149:a43:10b::5
+;; WARNING: can't connect to 2620:149:a43:10b::f
+;; WARNING: can't connect to 2620:149:a43:10c::9
+;; WARNING: can't connect to 2620:149:a43:10d::f
+;; WARNING: can't connect to 2620:149:a43:10c::6
+;; WARNING: can't connect to 2620:149:a43:10a::9
+
 keyvalueservice.fe.apple-dns.net
-fe.apple-dns.net
+17.248.188.134
+17.248.188.100
+17.248.188.171
+17.248.188.103
+17.248.188.80
+17.248.188.132
+17.248.188.102
+17.248.188.170
+17.248.188.81 
+
+;; WARNING: connection timeout for 17.248.188.81
+;; WARNING: connection timeout for 17.248.188.140
+;; WARNING: connection timeout for 17.248.188.146
+;; WARNING: connection timeout for 17.248.188.133
+
+2620:149:a43:10d::a
+2620:149:a43:10c::9
+2620:149:a43:10a::c
+2620:149:a43:10d::4
+2620:149:a43:10b::d
+2620:149:a43:10d::12
+2620:149:a43:10a::e
+2620:149:a43:10a::b
+
+
+fe.apple-dns.net ## Not a dns server ##
+
 gateway.fe.apple-dns.net
+17.248.188.73
+17.248.188.74
+17.248.188.104
+17.248.188.139
+17.248.188.72
+17.248.188.172
+17.248.188.170
+17.248.188.105
+;; WARNING: can't connect to 2620:149:a43:10c::6
+;; WARNING: can't connect to 2620:149:a43:10c::8
+;; WARNING: can't connect to 2620:149:a43:10c::11
+;; WARNING: can't connect to 2620:149:a43:10a::f
+;; WARNING: can't connect to 2620:149:a43:10c::5
+;; WARNING: can't connect to 2620:149:a43:10b::11
+;; WARNING: can't connect to 2620:149:a43:10b::e
+;; WARNING: can't connect to 2620:149:a43:10b::10
+
 caldav.fe.apple-dns.net
+
 availability.fe.apple-dns.net
+
 quota.fe.apple-dns.net
+
 sharedstreams.fe.apple-dns.net
+
 mobilebackup.fe.apple-dns.net
+17.248.188.72
+17.248.188.101
+17.248.188.135
+17.248.188.144
+17.248.188.147
+17.248.188.69
+17.248.188.169
+17.248.188.172
+2620:149:a43:10b::d
+2620:149:a43:10a::10
+2620:149:a43:10c::6
+2620:149:a43:10b::b
+2620:149:a43:10b::c
+2620:149:a43:10d::a
+2620:149:a43:10a::b
+2620:149:a43:10b::10
 fmip.fe.apple-dns.net
 me.apple-dns.net
 
@@ -28,5 +125,3 @@ tls.cloudflare-dns.com
 v4.cloudflare-dns.com
 v6.cloudflare-dns.com
 www.cloudflare-dns.com
-
-https://raw.githubusercontent.com/adversarialtools/apple-telemetry/master/blacklist
