@@ -47,6 +47,8 @@ exosrv.com
 a.exosrv.com
 exdynsrv.com
 ads.exosrv.com
+adserver.additionalmedia.com
+additionalmedia.com
 
 ### malicious domain ###
 info-netkeeper.com
