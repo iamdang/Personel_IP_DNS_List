@@ -18,6 +18,9 @@ www.peachlandus.com
 blastcahs.com
 newsandpromotions.com
 
+#### Bad Redirects
+gtnp.website
+
 ### Bad ads
 c.bebi.com
 redir.bebi.com
