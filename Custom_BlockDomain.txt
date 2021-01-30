@@ -18,6 +18,19 @@ www.peachlandus.com
 blastcahs.com
 newsandpromotions.com
 
+### Bad ads
+c.bebi.com
+redir.bebi.com
+bebi.com
+go.bebi.com
+run-syndicate.com
+lcdn.runative-syndicate.com
+runative-syndicate.com
+pixel.runative-syndicate.com
+runative-syndicate.com
+
+
+
 ### malicious domain ###
 info-netkeeper.com
 www.info-netkeeper.com
