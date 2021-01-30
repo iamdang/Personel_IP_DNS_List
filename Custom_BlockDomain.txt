@@ -16,6 +16,7 @@ theodorus-flo.com
 peachlandus.com
 www.peachlandus.com
 blastcahs.com
+newsandpromotions.com
 
 ### malicious domain ###
 info-netkeeper.com
@@ -30,6 +31,23 @@ securityprotomob.eu
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 onmarshtompor.com
 leplaxal.com
+optavut.com
+apple.0l1201s548b2.top
+0l1201s548b2.top
+5woq210e1f4q.top
+apple.5woq210e1f4q.top
+5woq210e1f4q.top
+free-download.ar5dna6brto9.top
+ar5dna6brto9.top
+healthbettingtips.today
+
+### Trackers possible?????
+exp-netkeeper.com
+track.ecampaignstats.com
+track-app.club
+data-tracking.ne
+go.hpyjmp.com
+creative.dzhjmp.com
 
 ### Custom block DoT/DoH Servers 
 chrome.cloudflare-dns.com
