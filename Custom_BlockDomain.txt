@@ -41,6 +41,10 @@ evenads.com
 
 ### Milicious Ads
 easy-bars.com
+exosrv.com
+a.exosrv.com
+exdynsrv.com
+ads.exosrv.com
 
 ### malicious domain ###
 info-netkeeper.com
