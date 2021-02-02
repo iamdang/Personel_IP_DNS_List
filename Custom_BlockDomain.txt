@@ -116,3 +116,17 @@ creative.dzhjmp.com
 chrome.cloudflare-dns.com
 4c888f.dns.nextdns.io
 firefox.dns.nextdns.io
+
+#Block Apple DNS Servers
+setup.fe.apple-dns.net
+cvws.apple-dns.net
+keyvalueservice.fe.apple-dns.net
+gateway.fe.apple-dns.net
+caldav.fe.apple-dns.net
+availability.fe.apple-dns.net
+quota.fe.apple-dns.net
+sharedstreams.fe.apple-dns.net
+mobilebackup.fe.apple-dns.net
+me.apple-dns.net
+fmip.fe.apple-dns.net
+
