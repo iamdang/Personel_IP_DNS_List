@@ -81,12 +81,77 @@ gateway.fe.apple-dns.net
 ;; WARNING: can't connect to 2620:149:a43:10b::10
 
 caldav.fe.apple-dns.net
+;; WARNING: can't connect to 17.248.188.175@853(TCP)
+;; WARNING: can't connect to 17.248.188.138@853(TCP)
+;; WARNING: can't connect to 17.248.188.74@853(TCP)
+;; WARNING: can't connect to 17.248.188.173@853(TCP)
+;; WARNING: can't connect to 17.248.188.169@853(TCP)
+;; WARNING: can't connect to 17.248.188.113@853(TCP)
+;; WARNING: can't connect to 17.248.188.132@853(TCP)
+;; WARNING: can't connect to 17.248.188.105@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::c@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::13@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::9@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::4@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::12@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::a@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::5@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::6@853(TCP)
+;; ERROR: failed to query server caldav.fe.apple-dns.net@853(TCP)
 
 availability.fe.apple-dns.net
+;; WARNING: can't connect to 17.248.188.73@853(TCP)
+;; WARNING: can't connect to 17.248.188.68@853(TCP)
+;; WARNING: can't connect to 17.248.188.177@853(TCP)
+;; WARNING: can't connect to 17.248.188.144@853(TCP)
+;; WARNING: can't connect to 17.248.188.78@853(TCP)
+;; WARNING: can't connect to 17.248.188.142@853(TCP)
+;; WARNING: can't connect to 17.248.188.172@853(TCP)
+;; WARNING: can't connect to 17.248.188.164@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::11@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::11@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::a@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::d@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::a@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::c@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::4@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::5@853(TCP)
 
 quota.fe.apple-dns.net
+;; WARNING: can't connect to 17.248.188.76@853(TCP)
+;; WARNING: can't connect to 17.248.188.68@853(TCP)
+;; WARNING: can't connect to 17.248.188.75@853(TCP)
+;; WARNING: can't connect to 17.248.188.72@853(TCP)
+;; WARNING: can't connect to 17.248.188.109@853(TCP)
+;; WARNING: can't connect to 17.248.188.168@853(TCP)
+;; WARNING: can't connect to 17.248.188.146@853(TCP)
+;; WARNING: can't connect to 17.248.188.132@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::9@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::9@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::4@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::d@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10b::7@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::d@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::11@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::6@853(TCP)
 
 sharedstreams.fe.apple-dns.net
+;; WARNING: can't connect to 17.248.188.171@853(TCP)
+;; WARNING: can't connect to 17.248.188.177@853(TCP)
+;; WARNING: can't connect to 17.248.188.135@853(TCP)
+;; WARNING: can't connect to 17.248.188.164@853(TCP)
+;; WARNING: can't connect to 17.248.188.72@853(TCP)
+;; WARNING: can't connect to 17.248.188.75@853(TCP)
+;; WARNING: can't connect to 17.248.188.73@853(TCP)
+;; WARNING: can't connect to 17.248.188.174@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::5@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::5@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10a::c@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::12@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::c@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::9@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10d::13@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:10c::e@853(TCP)
 
 mobilebackup.fe.apple-dns.net
 17.248.188.72
@@ -105,8 +170,35 @@ mobilebackup.fe.apple-dns.net
 2620:149:a43:10d::a
 2620:149:a43:10a::b
 2620:149:a43:10b::10
+
 fmip.fe.apple-dns.net
+;; WARNING: can't connect to 17.248.188.112@853(TCP)
+;; WARNING: can't connect to 17.248.188.68@853(TCP)
+;; WARNING: can't connect to 17.248.188.144@853(TCP)
+;; WARNING: can't connect to 17.248.188.103@853(TCP)
+;; WARNING: can't connect to 17.248.188.164@853(TCP)
+;; WARNING: can't connect to 17.248.188.147@853(TCP)
+;; WARNING: can't connect to 17.248.188.110@853(TCP)
+;; WARNING: can't connect to 17.248.188.172@853(TCP)
+;; ERROR: failed to query server fmip.fe.apple-dns.net@853(TCP)
+
 me.apple-dns.net
+;; WARNING: can't connect to 17.248.129.142@853(TCP)
+;; WARNING: can't connect to 17.248.129.40@853(TCP)
+;; WARNING: can't connect to 17.248.188.42@853(TCP)
+;; WARNING: can't connect to 17.248.188.38@853(TCP)
+;; WARNING: can't connect to 17.248.129.209@853(TCP)
+;; WARNING: can't connect to 17.248.129.9@853(TCP)
+;; WARNING: can't connect to 17.248.129.236@853(TCP)
+;; WARNING: can't connect to 17.248.188.40@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:102::9@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:108::6@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:109::d@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:107::b@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:103::4@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:104::d@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:107::4@853(TCP)
+;; WARNING: can't connect to 2620:149:a43:103::7@853(TCP)
 
 
 119dot29dot29dot29.cloudflare-dns.com
