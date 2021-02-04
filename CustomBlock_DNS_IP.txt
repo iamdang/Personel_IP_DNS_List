@@ -1,1 +1,4 @@
-## Blank
+## Apple DNS over HTTPS servers
+17.253.26.119
+17.253.26.247
+17.253.26.85
