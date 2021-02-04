@@ -18,4 +18,4 @@ Block Apple DNS Servers
 
 #Apple Dns over https server
 1.1.1.1 doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
+1.1.1.1 doh.dns.apple.com.v.aaplimg.com
