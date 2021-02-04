@@ -15,3 +15,6 @@ Block Apple DNS Servers
 #mobilebackup.fe.apple-dns.net
 #me.apple-dns.net
 #fmip.fe.apple-dns.net
+
+#Apple Dns over https server
+doh.dns.apple.com
