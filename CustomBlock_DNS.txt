@@ -2,6 +2,7 @@
 chrome.cloudflare-dns.com
 4c888f.dns.nextdns.io
 firefox.dns.nextdns.io
+dns.google
 
 Block Apple DNS Servers
 #setup.fe.apple-dns.net
