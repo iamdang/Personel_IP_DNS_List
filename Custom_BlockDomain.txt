@@ -59,6 +59,7 @@ jads.co
 littlecdn.com
 sffsdvc.com
 juicyasds.com
+js.juicyads.com
 xapi.juicyads.com #cname n3f3c2s2.stackpathcdn.com
 n3f3c2s2.stackpathcdn.com
 
@@ -137,3 +138,4 @@ oyywtwcx.com
 trabajos.com.gt
 evenads.com
 trafiq.party
+bwvnmbhuuhalr.com
