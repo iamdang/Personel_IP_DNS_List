@@ -31,12 +31,14 @@ lcdn.runative-syndicate.com
 runative-syndicate.com
 pixel.runative-syndicate.com
 runative-syndicate.com
-syndication.realsrv.com
-tk6if76q.ab1n.net #cname of syndication.realsrv.com
+syndication.realsrv.com #cname tk6if76q.ab1n.net
+tk6if76q.ab1n.net
 ab1n.net
 main.realsrv.com
 realsrv.com
-a.realsrv.com
+a.realsrv.com #cname cds.h5z9g8y6.hwcdn.net
+
+cds.h5z9g8y6.hwcdn.net
 s3t3d2y7.ackcdn.net
 pinkpig2le8tt09.com
 penjazzvice.com
