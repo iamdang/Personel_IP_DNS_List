@@ -62,6 +62,7 @@ exdynsrv.com
 ads.exosrv.com
 adserver.additionalmedia.com
 additionalmedia.com
+vid-adblocker.com
 
 ### malicious domain ###
 info-netkeeper.com
