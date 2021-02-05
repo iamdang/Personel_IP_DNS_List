@@ -32,6 +32,8 @@ runative-syndicate.com
 pixel.runative-syndicate.com
 runative-syndicate.com
 syndication.realsrv.com
+tk6if76q.ab1n.net #cname of syndication.realsrv.com
+ab1n.net
 main.realsrv.com
 realsrv.com
 a.realsrv.com
@@ -40,7 +42,9 @@ pinkpig2le8tt09.com
 penjazzvice.com
 displayvertising.com
 e-v-e-n.me
+
 evenads.com
+
 jayhintcull.com
 adspredictiv.com
 www.adspredictiv.com
