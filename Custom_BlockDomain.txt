@@ -59,7 +59,8 @@ jads.co
 littlecdn.com
 sffsdvc.com
 juicyasds.com
-js.juicyads.com
+js.juicyads.com #cname dc3w9bmcmo1ov.cloudfront.net
+dc3w9bmcmo1ov.cloudfront.net
 xapi.juicyads.com #cname n3f3c2s2.stackpathcdn.com
 n3f3c2s2.stackpathcdn.com
 
