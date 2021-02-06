@@ -46,20 +46,26 @@ displayvertising.com
 1503693843.rsc.cdn77.org #cname of www.displayvertising.com
 
 e-v-e-n.me
+www.e-v-e-n.me
+www.evenads.com
 evenads.com
 jayhintcull.com
+www.jayhintcull.com
 adspredictiv.com
 www.adspredictiv.com
 blockadsnot.com
 www.blockadsnot.com #cname for 1158060716.rsc.cdn77.org
 1158060716.rsc.cdn77.org
 blastcahs.com
+www.blastcahs.com
 themereplacebiopsy.com
 edgyconnaterag.com
 rookmemorizevoluntary.com
 jads.co
+www.jads.co
 littlecdn.com
 sffsdvc.com
+www.juicyasds.com
 juicyasds.com
 js.juicyads.com #cname dc3w9bmcmo1ov.cloudfront.net
 dc3w9bmcmo1ov.cloudfront.net
@@ -129,34 +135,43 @@ oyywtwcx.com
 www.oyywtwcx.com
 glqicmazu.com
 www.glqicmazu.com
+www.cbmawvknxwgxqd.com
 cbmawvknxwgxqd.com
 bwvnmbhuuhalr.com
+www.bwvnmbhuuhalr.com
 pgntcjglm.com
 www.pgntcjglm.com
 trk.instantwin.info
 mesucces.top
+www.mesucces.top
 myemailtracking.com
+www.myemailtracking.com
 
 ## 
 exoticads.com
+www.exoticads.com
 cdn.exoticads.com
 inflationbreedinghoax.com
 
 ## Malvertising
 trabajos.com.gt
-evenads.com
+www.trabajos.com.gt
 trafiq.party
+www.trafiq.party
 
 newsubscribes.com
 gtnp.website
+www.easy-bars.com
 easy-bars.com
 exosrv.com
+www.exosrv.com
 a.exosrv.com
 yvk8gxz2.ab1n.net #cname for a.exosrv.com
 cds.d6n9n7e2.hwcdn.net #cname for a.exosrv.com
 ab1n.net
 hwcdn.net
 exdynsrv.com
+www.exdynsrv.com
 ads.exosrv.com
 adserver.additionalmedia.com
 additionalmedia.com
