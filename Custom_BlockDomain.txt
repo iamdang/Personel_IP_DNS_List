@@ -39,6 +39,8 @@ s3t3d2y7.ackcdn.net
 pinkpig2le8tt09.com
 penjazzvice.com
 displayvertising.com
+1503693843.rsc.cdn77.org #cname of www.displayvertising.com
+
 e-v-e-n.me
 evenads.com
 jayhintcull.com
@@ -135,6 +137,10 @@ gtnp.website
 easy-bars.com
 exosrv.com
 a.exosrv.com
+yvk8gxz2.ab1n.net #cname for a.exosrv.com
+cds.d6n9n7e2.hwcdn.net #cname for a.exosrv.com
+ab1n.net
+hwcdn.net
 exdynsrv.com
 ads.exosrv.com
 adserver.additionalmedia.com
