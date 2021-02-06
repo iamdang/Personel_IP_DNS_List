@@ -2,3 +2,7 @@
 17.253.26.119
 17.253.26.247
 17.253.26.85
+
+
+## CloudFlare DNS Server that google uses
+104.18.27.211
