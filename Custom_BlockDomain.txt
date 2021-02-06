@@ -57,6 +57,8 @@ js.juicyads.com #cname dc3w9bmcmo1ov.cloudfront.net
 dc3w9bmcmo1ov.cloudfront.net
 xapi.juicyads.com #cname n3f3c2s2.stackpathcdn.com
 n3f3c2s2.stackpathcdn.com
+vid-adblocker.com
+helpiossuppoorrt.info
 
 ### malicious domain ###
 youfreegift.com
@@ -117,12 +119,17 @@ creative.dzhjmp.com
 dzhjmp.com
 oyywtwcx.com
 
+## 
+exoticads.com
+cdn.exoticads.com
+inflationbreedinghoax.com
+
 ## Malvertising
 trabajos.com.gt
 evenads.com
 trafiq.party
 bwvnmbhuuhalr.com
-inflationbreedinghoax.com
+
 newsubscribes.com
 gtnp.website
 easy-bars.com
@@ -132,5 +139,3 @@ exdynsrv.com
 ads.exosrv.com
 adserver.additionalmedia.com
 additionalmedia.com
-vid-adblocker.com
-helpiossuppoorrt.info
