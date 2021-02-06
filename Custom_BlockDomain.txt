@@ -18,9 +18,6 @@ www.peachlandus.com
 blastcahs.com
 newsandpromotions.com
 
-#### Bad Redirects
-gtnp.website
-
 ### Bad ads
 c.bebi.com
 redir.bebi.com
@@ -37,16 +34,13 @@ ab1n.net
 main.realsrv.com
 realsrv.com
 a.realsrv.com #cname cds.h5z9g8y6.hwcdn.net
-
 cds.h5z9g8y6.hwcdn.net
 s3t3d2y7.ackcdn.net
 pinkpig2le8tt09.com
 penjazzvice.com
 displayvertising.com
 e-v-e-n.me
-
 evenads.com
-
 jayhintcull.com
 adspredictiv.com
 www.adspredictiv.com
@@ -63,17 +57,6 @@ js.juicyads.com #cname dc3w9bmcmo1ov.cloudfront.net
 dc3w9bmcmo1ov.cloudfront.net
 xapi.juicyads.com #cname n3f3c2s2.stackpathcdn.com
 n3f3c2s2.stackpathcdn.com
-
-### Milicious Ads
-easy-bars.com
-exosrv.com
-a.exosrv.com
-exdynsrv.com
-ads.exosrv.com
-adserver.additionalmedia.com
-additionalmedia.com
-vid-adblocker.com
-helpiossuppoorrt.info
 
 ### malicious domain ###
 youfreegift.com
@@ -134,9 +117,20 @@ creative.dzhjmp.com
 dzhjmp.com
 oyywtwcx.com
 
-
-## Bad Redirector
+## Malvertising
 trabajos.com.gt
 evenads.com
 trafiq.party
 bwvnmbhuuhalr.com
+inflationbreedinghoax.com
+newsubscribes.com
+gtnp.website
+easy-bars.com
+exosrv.com
+a.exosrv.com
+exdynsrv.com
+ads.exosrv.com
+adserver.additionalmedia.com
+additionalmedia.com
+vid-adblocker.com
+helpiossuppoorrt.info
