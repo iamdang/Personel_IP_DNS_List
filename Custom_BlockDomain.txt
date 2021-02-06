@@ -18,6 +18,10 @@ www.peachlandus.com
 blastcahs.com
 newsandpromotions.com
 
+#ads
+#spot.im
+
+
 ### Bad ads
 c.bebi.com
 redir.bebi.com
