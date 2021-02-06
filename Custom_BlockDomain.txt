@@ -117,7 +117,6 @@ lq8ifljvcomi.l4.adsco.re
 lq8ifljvcomi.n4.adsco.re
 storespeedy-theheavilyfile.best
 helpinghandinternetmarketing.com
-cbmawvknxwgxqd.com
 learnmorenows.com
 
 ### Trackers possible?????
@@ -134,9 +133,11 @@ dzhjmp.com
 oyywtwcx.com
 www.oyywtwcx.com
 glqicmazu.com
-www.glqicmazu.com
-www.cbmawvknxwgxqd.com
+www.glqicmazu.com #cname for 1087962688.rsc.cdn77.org
+1087962688.rsc.cdn77.org
 cbmawvknxwgxqd.com
+www.cbmawvknxwgxqd.com #cname for 1102012073.rsc.cdn77.org	
+1102012073.rsc.cdn77.org
 bwvnmbhuuhalr.com
 www.bwvnmbhuuhalr.com
 pgntcjglm.com
