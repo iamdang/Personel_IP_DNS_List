@@ -51,6 +51,8 @@ jayhintcull.com
 adspredictiv.com
 www.adspredictiv.com
 blockadsnot.com
+www.blockadsnot.com #cname for 1158060716.rsc.cdn77.org
+1158060716.rsc.cdn77.org
 blastcahs.com
 themereplacebiopsy.com
 edgyconnaterag.com
