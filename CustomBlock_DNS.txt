@@ -10,7 +10,7 @@ doh.dns.apple.com.v.aaplimg.com
 ## CloudFlare DNS over HTTPS
 chrome.cloudflare-dns.com
 mozilla.cloudflare-dns.com
-cdnjs.cloudflare.com
+#cdnjs.cloudflare.com #not sure 
 dns.cloudflare.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
@@ -18,7 +18,6 @@ family.cloudflare-dns.com
 target.every1dns.net #cloudflare
 3adaa745-8774-41fe-b7b0-38686aec9ef1.is-doh.help.every1dns.net
 3adaa745-8774-41fe-b7b0-38686aec9ef1.is-dot.help.every1dns.net
-
 
 ## NextDNS DNS over HTTPS
 4c888f.dns.nextdns.io
