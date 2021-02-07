@@ -36,6 +36,14 @@ target.every1dns.net #cloudflare
 95.179.134.211
 45.32.79.76
 
+## CleanBrowsing Family
+185.228.168.168
+185.228.169.168
+
+## CleanBrowsing Adult
+185.228.168.10
+185.228.169.11
+
 ## Adguard Default
 94.140.14.14
 94.140.15.15
