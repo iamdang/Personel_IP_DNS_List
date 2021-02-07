@@ -8,6 +8,9 @@
 104.18.27.211
 104.18.26.211
 
+target.every1dns.net #cloudflare
+104.17.198.37
+
 ## mozilla.cloudflare-dns.com
 104.16.248.249
 104.16.249.249
