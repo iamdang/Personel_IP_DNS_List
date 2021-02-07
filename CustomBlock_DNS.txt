@@ -14,6 +14,7 @@ cdnjs.cloudflare.com
 dns.cloudflare.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
+target.every1dns.net
 
 ## NextDNS DNS over HTTPS
 4c888f.dns.nextdns.io
