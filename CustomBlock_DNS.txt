@@ -36,6 +36,46 @@ dns11.quad9.net
 ## xFinity Dns over TLS
 dot.xfinity.com
 
+## Sinodun/Surfnet
+dnsovertls.sinodun.com
+dnsovertls1.sinodun.com
+dnsovertls2.sinodun.com
+dnsovertls3.sinodun.com
+
+## getdnsapi.net DNS over TLS
+getdnsapi.net
+
+## UncensoredDNS
+unicast.censurfridns.dk
+
+##Fondation RESTENA 
+kaitain.restena.lu
+
+## dkg
+dns.cmrg.net
+
+## dns.neutopia.org 853 443
+dns.neutopia.org
+
+## BlahDNS 853 443
+dot-de.blahdns.com	
+dot-jp.blahdns.com
+
+## Secure DNS Project by PumpleX
+dns.oszx.co
+
+## Foundation for Applied Privacy
+dot1.applied-privacy.net
+
+## ibksturm.synology.me
+ibksturm.synology.me
+
+## dismail.de
+fdns2.dismail.de
+fdns1.dismail.de
+
+##NIC Chile
+dnsotls.lab.nic.cl
 
 Block Apple DNS Servers these domain name will stop certain services from working.
 #setup.fe.apple-dns.net
