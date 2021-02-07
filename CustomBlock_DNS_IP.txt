@@ -65,3 +65,48 @@ target.every1dns.net #cloudflare
 149.112.112.10
 149.112.112.11
 149.112.112.112
+
+## Sinodun/Surfnet
+145.100.185.15
+145.100.185.16
+185.49.141.37
+145.100.185.18
+145.100.185.17
+
+## getdnsapi.net DNS over TLS
+185.49.141.37
+
+## UncensoredDNS
+89.233.43.71 
+
+##Fondation RESTENA 
+158.64.1.29
+
+## dkg
+199.58.81.218
+
+## Lorraine Data Network 853 443
+80.67.188.188
+
+## dns.neutopia.org 853 443
+89.234.186.112
+
+## BlahDNS 853 443
+108.61.201.119
+159.69.198.101
+
+## Secure DNS Project by PumpleX
+51.38.83.141
+
+## Foundation for Applied Privacy
+146.255.56.98
+
+## ibksturm.synology.me
+178.82.102.190
+
+## dismail.de
+159.69.114.157
+80.241.218.68
+
+NIC Chile
+200.1.123.46
