@@ -1,11 +1,32 @@
 ### Custom block DoT/DoH Servers 
-chrome.cloudflare-dns.com
-4c888f.dns.nextdns.io
-firefox.dns.nextdns.io
-steering.nextdns.io
+
+## Google DNS over HTTPS
 dns.google
 
-Block Apple DNS Servers
+#Apple Dns over https server
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+
+## CloudFlare DNS over HTTPS
+chrome.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+cdnjs.cloudflare.com
+dns.cloudflare.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
+
+## NextDNS DNS over HTTPS
+4c888f.dns.nextdns.io
+chromium.dns.nextdns.io
+firefox.dns.nextdns.io
+steering.nextdns.io
+
+## Quad9 DNS over HTTPS
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+
+Block Apple DNS Servers these domain name will stop certain services from working.
 #setup.fe.apple-dns.net
 #cvws.apple-dns.net
 #keyvalueservice.fe.apple-dns.net
@@ -17,9 +38,3 @@ Block Apple DNS Servers
 #mobilebackup.fe.apple-dns.net
 #me.apple-dns.net
 #fmip.fe.apple-dns.net
-
-#Apple Dns over https server
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
-
-
