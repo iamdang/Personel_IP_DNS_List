@@ -3,6 +3,17 @@
 17.253.26.247
 17.253.26.85
 
-
 ## CloudFlare DNS Server that google uses
-104.18.27.211
+104.18.27.211 #chrome.cloudflare-dns.com
+104.18.26.211
+
+##mozilla.cloudflare-dns.com
+104.16.248.249
+104.16.249.249
+
+## NextDNS encrypt DNS Server
+#4c888f.dns.nextdns.io
+#chromium.dns.nextdns.io
+162.220.221.25
+188.172.219.167
+95.179.134.211
