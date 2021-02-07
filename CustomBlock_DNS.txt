@@ -33,6 +33,10 @@ dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 
+## xFinity Dns over TLS
+dot.xfinity.com
+
+
 Block Apple DNS Servers these domain name will stop certain services from working.
 #setup.fe.apple-dns.net
 #cvws.apple-dns.net
