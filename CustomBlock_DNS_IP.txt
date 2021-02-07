@@ -36,6 +36,17 @@ target.every1dns.net #cloudflare
 95.179.134.211
 45.32.79.76
 
+## Adguard Default
+94.140.14.14
+94.140.15.15
+
+# Adguard Family
+94.140.14.15 
+94.140.15.16
+
+## Adguard Non-Filtering
+94.140.14.140
+94.140.14.141
 
 ## Quad
 ## dns10.quad9.net
