@@ -21,9 +21,9 @@ target.every1dns.net #cloudflare
 #104.17.64.4
 #104.17.65.4
 
-## dns.cloudflare.com
-104.16.132.229
-104.16.133.229
+## dns.cloudflare.com #Not sure
+#104.16.132.229
+#104.16.133.229
 
 ## NextDNS DNS over HTTPS
 ## 4c888f.dns.nextdns.io
