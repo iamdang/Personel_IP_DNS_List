@@ -25,6 +25,9 @@ target.every1dns.net #cloudflare
 #104.16.132.229
 #104.16.133.229
 
+## xFinitiy DNS over TLS
+96.113.151.145
+
 ## NextDNS DNS over HTTPS
 ## 4c888f.dns.nextdns.io
 #chromium.dns.nextdns.io
