@@ -12,6 +12,16 @@
 104.16.248.249
 104.16.249.249
 
+## cdnjs.cloudflare.com
+104.16.18.94
+104.16.19.94
+104.17.64.4
+104.17.65.4
+
+## dns.cloudflare.com
+104.16.132.229
+104.16.133.229
+
 ## NextDNS DNS over HTTPS
 ## 4c888f.dns.nextdns.io
 #chromium.dns.nextdns.io
