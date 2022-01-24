@@ -187,3 +187,5 @@ adserver.additionalmedia.com
 additionalmedia.com
 coliassfeurytheme.com
 www.coliassfeurytheme.com
+ps.qoropa.co ## Spam website ios calendar spam
+qoropa.co
