@@ -212,11 +212,12 @@ cdn.pubfuture-ad.com
 pubfuture-ad.com
 platform.pubadx.one
 ip2geo.pubfuture-ad.com
-aqle3.com/btag.min.js
+aqle3.com
 demand.pubadx.one
 imp9.pubadx.one
 apadx.b-cdn.net
 source.pubadx.one
+s3t3d2y1.afcdn.net
 pixel-dsp.pubadx.one
 sync.pubfuture-ad.com
 dsp-service.admatic.de
@@ -226,3 +227,4 @@ server.smartytech.ioa
 dsp-service.monetixads.com
 prebid.monetixads.com
 exchange.omni-dex.io
+a-zzz.com
