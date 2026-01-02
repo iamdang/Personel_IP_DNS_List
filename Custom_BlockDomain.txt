@@ -228,3 +228,5 @@ dsp-service.monetixads.com
 prebid.monetixads.com
 exchange.omni-dex.io
 a-zzz.com
+czjmkmdd.com
+dnhfi5nn2dt67.cloudfront.net
